@@ -2,3 +2,4 @@
 pnpm*
 yarn*
 **/*.svg
+dist/

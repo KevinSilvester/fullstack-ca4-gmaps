@@ -29,11 +29,11 @@ const Map = () => {
          <GoogleMap
             mapContainerStyle={{
                height: '100%',
-               width: '100%',
+               width: '100%'
             }}
             zoom={16}
             center={coordinates}
-            onLoad={(map) => setMap(map)}
+            onLoad={map => setMap(map)}
          >
             <Marker position={coordinates} />
          </GoogleMap>
