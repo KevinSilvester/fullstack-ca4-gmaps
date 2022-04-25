@@ -8,7 +8,7 @@
       "Teodor Donchev"
    ],
    "scripts": {
-      "dev": "vite",
+      "dev": "vite --host",
       "build": "vite build",
       "preview": "vite preview",
       "prod": "serve dist -s -p 3000",
@@ -22,6 +22,7 @@
       "react": "^18.0.0",
       "react-bootstrap": "^2.2.3",
       "react-dom": "^18.0.0",
+      "react-responsive": "^9.0.0-beta.6",
       "react-router-dom": "^6.3.0"
    },
    "devDependencies": {
@@ -29,6 +30,7 @@
       "@types/react": "^18.0.0",
       "@types/react-dom": "^18.0.0",
       "@vitejs/plugin-react": "^1.3.0",
+      "autoprefixer": "^10.4.4",
       "cssnano": "^5.1.7",
       "postcss": "^8.4.12",
       "prettier": "^2.6.2",
