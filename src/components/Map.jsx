@@ -5,6 +5,9 @@
 
 import React, { useCallback, useMemo, useRef, useState } from 'react'
 import { useJsApiLoader, Marker, GoogleMap } from '@react-google-maps/api'
+import { AmbientLight, DirectionalLight, Scene } from 'three'
+import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'
+import { ThreeJSOverlayView } from '@googlemaps/three'
 import MapControl from './MapControl'
 import { MAP_ID, MAP_LIBRARIES } from '../config/constants'
 
@@ -18,20 +21,22 @@ const Map = () => {
    /** @type {React.Ref<Map>} */
    const mapRef = useRef()
 
+   const birmingham = useMemo(() => ({ lat: 52.483726, lng: -1.892682 }), [])
+
    /** @type {MapOptions} */
    const mapOptions = useMemo(
       () => ({
          mapId: MAP_ID,
          disableDefaultUI: true,
          fullscreenControl: true,
-         streetViewControl: true
+         streetViewControl: true,
+         center: birmingham
       }),
       []
    )
 
    const [displayControls, setDisplayControls] = useState(false)
 
-   const birmingham = useMemo(() => ({ lat: 52.483726, lng: -1.892682 }), [])
 
    /**
     * @param {'tilt' | 'rotate'} mode
