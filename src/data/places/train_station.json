@@ -1,0 +1,200 @@
+[
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.477754, "lng": -1.898957999999999 },
+         "viewport": {
+            "northeast": { "lat": 52.47926205, "lng": -1.8965765 },
+            "southwest": { "lat": 52.47619825, "lng": -1.900253699999999 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Birmingham New Street",
+      "photos": [
+         {
+            "height": 3072,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/110463738333806207572\">Ian Brown</a>"
+            ],
+            "photo_reference": "Aap_uED4p4iIvFfJujzqYsHQNn8yOKNSaE09NZ-zjSV9TWddjgJ2QEYQlkLs4Z5hEATGx1WwtEET8YufJVHsjO-yRV4040RM7yJfmg9QcrLJtFaCp_yFgKfaJRcgZy7GmH7FEiM4fkKooTzoi7tAcig-kQXxB-Y0-gZDYH8Adu7k4njeoCSf",
+            "width": 4080
+         }
+      ],
+      "place_id": "ChIJcQUO3_GWcEgRLqMuD3pI-u0",
+      "plus_code": { "compound_code": "F4H2+4C Birmingham, UK", "global_code": "9C4WF4H2+4C" },
+      "rating": 4,
+      "reference": "ChIJcQUO3_GWcEgRLqMuD3pI-u0",
+      "scope": "GOOGLE",
+      "types": ["train_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 1391,
+      "vicinity": "Station Street, Birmingham",
+      "imgName": "train_station--birmingham_new_street.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4787335, "lng": -1.892601 },
+         "viewport": {
+            "northeast": { "lat": 52.48005878029149, "lng": -1.891449019708498 },
+            "southwest": { "lat": 52.47736081970849, "lng": -1.894146980291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Birmingham Moor Street",
+      "photos": [
+         {
+            "height": 9000,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/106255002071548269738\">amari stevens</a>"
+            ],
+            "photo_reference": "Aap_uEB23Zq0WGxL3HP_2Z1iqk2UDJ4B9njXjF8GUqh3NakhDVTT0Gy0n46kAG6oYHTotv9QTMv3TzAzc3NYrgvApOtKAnAWVYOr104vEM7029EKCzmgthWf_8Xzid0yvNUcLxFLe_K9D3RlzXAcovN1xkFlpFV3TAyB4K-dNrlRg2p8aGnq",
+            "width": 12000
+         }
+      ],
+      "place_id": "ChIJr_nVBYa8cEgRphflgZ2fT8Y",
+      "plus_code": { "compound_code": "F4H4+FX Birmingham, UK", "global_code": "9C4WF4H4+FX" },
+      "rating": 4.3,
+      "reference": "ChIJr_nVBYa8cEgRphflgZ2fT8Y",
+      "scope": "GOOGLE",
+      "types": ["train_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 270,
+      "vicinity": "Birmingham",
+      "imgName": "train_station--birmingham_moor_street.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4832599, "lng": -1.8560145 },
+         "viewport": {
+            "northeast": { "lat": 52.4846019302915, "lng": -1.854755819708498 },
+            "southwest": { "lat": 52.4819039697085, "lng": -1.857453780291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Adderley Park",
+      "photos": [
+         {
+            "height": 4608,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/106255002071548269738\">amari stevens</a>"
+            ],
+            "photo_reference": "Aap_uEC_agWwI7Y6z1kkMrdz2wLBw9zbuwyogqagyY97yTkgp1wd9wLKQD7_5ApIzW9Myby-BOCYwLvwjkOPZEpNDyiyEzmmVSUdAKl4JmlaHy7jpCAfgrUMvXzYdLMVC68i375dt4Bd-rdzYItdKQV5BPSmmxUk5mvZfgi5eCItDDqs_HpP",
+            "width": 2184
+         }
+      ],
+      "place_id": "ChIJM-vf03K7cEgRA3w8PLma034",
+      "plus_code": { "compound_code": "F4MV+8H Birmingham, UK", "global_code": "9C4WF4MV+8H" },
+      "rating": 3.1,
+      "reference": "ChIJM-vf03K7cEgRA3w8PLma034",
+      "scope": "GOOGLE",
+      "types": ["train_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 17,
+      "vicinity": "United Kingdom",
+      "imgName": "train_station--adderley_park.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4828687, "lng": -1.898294 },
+         "viewport": {
+            "northeast": { "lat": 52.4857049, "lng": -1.895892 },
+            "southwest": { "lat": 52.48134249999999, "lng": -1.903488 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Birmingham Snow Hill",
+      "photos": [
+         {
+            "height": 3456,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/115986873010731713265\">Gábor Pétervári</a>"
+            ],
+            "photo_reference": "Aap_uEB5wWxcjvWy_AIWOjqado2rBOWnJ7HiqV5Z92VAe28RL7L31B20oFOLGARK95jNMQyuQ7c4f3t7ZFEbtr-cIC3xK3i62y5JmBHehz-2CCtKUon5UXfDcIFqoHezYVDSjv-wMd3qcrXrGvcDk55ffZovi5ISfm67aod4Dj7kfK4cZ6oQ",
+            "width": 4608
+         }
+      ],
+      "place_id": "ChIJqacnDY68cEgRmTO4gfUnUac",
+      "plus_code": { "compound_code": "F4M2+4M Birmingham, UK", "global_code": "9C4WF4M2+4M" },
+      "rating": 3.9,
+      "reference": "ChIJqacnDY68cEgRmTO4gfUnUac",
+      "scope": "GOOGLE",
+      "types": ["train_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 90,
+      "vicinity": "Colmore Row, Birmingham",
+      "imgName": "train_station--birmingham_snow_hill.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4815943, "lng": -1.8863332 },
+         "viewport": {
+            "northeast": { "lat": 52.4829663302915, "lng": -1.885138469708498 },
+            "southwest": { "lat": 52.4802683697085, "lng": -1.887836430291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Curzon Street Station",
+      "photos": [
+         {
+            "height": 1908,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/104828001562319171232\">George Adams</a>"
+            ],
+            "photo_reference": "Aap_uEA8glE7R0I9U54yAKTdw6kVPfqnF7XncPfbPr8c-xyeznR7uvP5HhkGsbAvYlNw2tT56YUIZ6xoSYnOLsFYU7speyrkWztv3K1GnxjvqQsOIs6Qiooy5WZ-XqXmuvPzCze6VcF78G9-oGruWwtXcpbuSUURIOhJV_plVfzhh9_1gwfo",
+            "width": 4032
+         }
+      ],
+      "place_id": "ChIJJZ1zhYO8cEgRC40ZWD8pgPc",
+      "plus_code": { "compound_code": "F4J7+JF Birmingham, UK", "global_code": "9C4WF4J7+JF" },
+      "rating": 4.3,
+      "reference": "ChIJJZ1zhYO8cEgRC40ZWD8pgPc",
+      "scope": "GOOGLE",
+      "types": ["train_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 12,
+      "vicinity": "New Canal Street, Birmingham",
+      "imgName": "train_station--curzon_street_station.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4895445, "lng": -1.9134016 },
+         "viewport": {
+            "northeast": { "lat": 52.49079498029151, "lng": -1.911675419708498 },
+            "southwest": { "lat": 52.48809701970851, "lng": -1.914373380291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Jewellery Quarter",
+      "photos": [
+         {
+            "height": 720,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/118231632894162844120\">Angie Beaumont</a>"
+            ],
+            "photo_reference": "Aap_uEBJJa1YnwQlJufaKKg5sXEBm4KcSaDk-sohctSozN0YH_3UQZQpF_-I69ytaLOEtX5mED3K1ixRlQrBqWEVIboH6s9dCmIS7yA5G82xRHsz93P_BCnLDYF4lyY328xNPEQxRkwvrf9fTBIA_OsEzkUYBjVrA2DOlzzHae3VaSq66YQU",
+            "width": 960
+         }
+      ],
+      "place_id": "ChIJ5xgirO68cEgRlQ7L6S8mPLg",
+      "plus_code": { "compound_code": "F3QP+RJ Birmingham, UK", "global_code": "9C4WF3QP+RJ" },
+      "rating": 4,
+      "reference": "ChIJ5xgirO68cEgRlQ7L6S8mPLg",
+      "scope": "GOOGLE",
+      "types": ["train_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 20,
+      "vicinity": "United Kingdom",
+      "imgName": "train_station--jewellery_quarter.jpg"
+   }
+]

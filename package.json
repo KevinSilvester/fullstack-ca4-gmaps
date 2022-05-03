@@ -13,11 +13,19 @@
       "preview": "vite preview",
       "prod": "serve dist -s -p 3000",
       "check": "prettier --check './**/*.scss' './**/*.css' './**/*.js' './**/*.jsx' './**/*.json' './**/*.html' './**/*.md'",
-      "format": "prettier --write './**/*.scss' './**/*.css' './**/*.js' './**/*.jsx' './**/*.json' './**/*.html' './**/*.md'"
+      "format": "prettier --write './**/*.scss' './**/*.css' './**/*.js' './**/*.jsx' './**/*.json' './**/*.html' './**/*.md'",
+      "places": "node ./scripts/places.js && prettier --write './src/data/**/*.json'",
+      "venues": "node ./scripts/venues.js && prettier --write './src/data/**/*.json'"
    },
    "dependencies": {
-      "@googlemaps/three": "^2.0.10",
+      "@fortawesome/fontawesome-svg-core": "^6.1.1",
+      "@fortawesome/free-regular-svg-icons": "^6.1.1",
+      "@fortawesome/free-solid-svg-icons": "^6.1.1",
+      "@fortawesome/react-fontawesome": "^0.1.18",
+      "@popperjs/core": "^2.11.5",
+      "@reach/combobox": "^0.17.0",
       "@react-google-maps/api": "^2.8.1",
+      "axios": "^0.27.2",
       "bootstrap": "^5.1.3",
       "framer-motion": "^6.3.0",
       "react": "^18.0.0",
@@ -25,7 +33,8 @@
       "react-dom": "^18.0.0",
       "react-responsive": "^9.0.0-beta.6",
       "react-router-dom": "^6.3.0",
-      "three": "^0.139.2"
+      "use-places-autocomplete": "^2.0.0",
+      "zustand": "4.0.0-rc.1"
    },
    "devDependencies": {
       "@tailwindcss/forms": "^0.5.0",
@@ -34,6 +43,7 @@
       "@vitejs/plugin-react": "^1.3.0",
       "autoprefixer": "^10.4.4",
       "cssnano": "^5.1.7",
+      "dotenv": "^16.0.0",
       "postcss": "^8.4.12",
       "prettier": "^2.6.2",
       "sass": "^1.50.0",

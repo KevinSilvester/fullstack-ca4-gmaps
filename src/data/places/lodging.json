@@ -1,0 +1,210 @@
+[
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47509309999999, "lng": -1.8965756 },
+         "viewport": {
+            "northeast": { "lat": 52.4765202802915, "lng": -1.895202069708498 },
+            "southwest": { "lat": 52.4738223197085, "lng": -1.897900030291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "ibis Birmingham New Street Station",
+      "photos": [
+         {
+            "height": 3620,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/112388664794267375102\">ibis Birmingham New Street Station</a>"
+            ],
+            "photo_reference": "Aap_uEDnZvYswwjCojP_Sfkw1CsBKx6ooVv5RlJxCIV3LkYfVKRaY_WsIoB6myKp8ZcczbnrFgre1UNsZ5h6sN0MMkv6FY-AS2T4G4bCp_jCCiZLEHc9NybM4Rg-aAkbrh4hcLHKrth-mAWYzX3bgkUdobzJBgquM6Hi0Ttr8BFHmgACpvx6",
+            "width": 2413
+         }
+      ],
+      "place_id": "ChIJfUV-aYO8cEgR-x4MyjPT-iA",
+      "plus_code": { "compound_code": "F4G3+29 Birmingham, UK", "global_code": "9C4WF4G3+29" },
+      "rating": 3.9,
+      "reference": "ChIJfUV-aYO8cEgR-x4MyjPT-iA",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 1568,
+      "vicinity": "Arcadian Centre, 21 Ladywell Walk, Birmingham",
+      "imgName": "lodging--ibis_birmingham_new_street_station.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47547679999999, "lng": -1.9003098 },
+         "viewport": {
+            "northeast": { "lat": 52.47670098029149, "lng": -1.898857319708498 },
+            "southwest": { "lat": 52.47400301970849, "lng": -1.901555280291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Radisson Blu Hotel, Birmingham",
+      "photos": [
+         {
+            "height": 576,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/107375539291878839483\">Radisson Blu Hotel, Birmingham</a>"
+            ],
+            "photo_reference": "Aap_uEBl5yzLObfChwwbHU0zNeTd1LyaMMz8PNySmeVtk6hdwOdpPzNpB0q8D8gLFrMqD8ufE-JMdafz1I8UfZP26y7rE8GQPaDjIJfGvlV_puG5iqDqU2RHnUpp_WQ8L7jsld6H8NKylo68oCued0E1REgniZwsNOrBJLdbKMyL_EToHt6_",
+            "width": 1024
+         }
+      ],
+      "place_id": "ChIJcyC4PYq8cEgRNuDcIsFDsww",
+      "plus_code": { "compound_code": "F3GX+5V Birmingham, UK", "global_code": "9C4WF3GX+5V" },
+      "rating": 4.1,
+      "reference": "ChIJcyC4PYq8cEgRNuDcIsFDsww",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 1597,
+      "vicinity": "12 Holloway Circus, Queensway, Birmingham",
+      "imgName": "lodging--radisson_blu_hotel,_birmingham.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47677170000001, "lng": -1.903438 },
+         "viewport": {
+            "northeast": { "lat": 52.47811678029149, "lng": -1.901932969708498 },
+            "southwest": { "lat": 52.4754188197085, "lng": -1.904630930291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Malmaison Birmingham",
+      "opening_hours": { "open_now": true },
+      "photos": [
+         {
+            "height": 1024,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/106894161570421352211\">Malmaison Birmingham</a>"
+            ],
+            "photo_reference": "Aap_uECxQM42Z-nbECJu0NvMY_jvEY3kLRMVTiV0VLw4Ja7OF5W3iW_RC2zi0_mpiwnuC-hPfE9IyxxN5t4hla-2ZXAFK4dWYz4WubXIHmeCNlsMrdWoEFP-w1EHVGKP_d9-CkfbqycWnzZcB_xDJxlBhQ7NwnoVVANQUBMMZgH5BJi-eBfw",
+            "width": 1024
+         }
+      ],
+      "place_id": "ChIJb0mj0oq8cEgRn-gXjgRdALg",
+      "plus_code": { "compound_code": "F3GW+PJ Birmingham, UK", "global_code": "9C4WF3GW+PJ" },
+      "rating": 4.2,
+      "reference": "ChIJb0mj0oq8cEgRn-gXjgRdALg",
+      "scope": "GOOGLE",
+      "types": [
+         "spa",
+         "lodging",
+         "bar",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "user_ratings_total": 1398,
+      "vicinity": "1 Wharfside Street, Birmingham",
+      "imgName": "lodging--malmaison_birmingham.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4767078, "lng": -1.911394099999999 },
+         "viewport": {
+            "northeast": { "lat": 52.4781495302915, "lng": -1.909967569708498 },
+            "southwest": { "lat": 52.4754515697085, "lng": -1.912665530291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Jurys Inn Birmingham",
+      "opening_hours": { "open_now": true },
+      "photos": [
+         {
+            "height": 415,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/115826368200365096750\">Jurys Inn Birmingham</a>"
+            ],
+            "photo_reference": "Aap_uEBCMHZwuDDHgDwOLOW_aSPw5LXGXJNX3K7py9hsMalPyVPbUhYRqMo2VMMACm6yhlnpA_JLigyKSZ3GH8ZJbs6TVTMCByfeVWLZm-Wq5Y8bN5io_wv5LhS255I44FJcxx_E17drrBbYNNGDHJXMp0mJHDfS1ks8poQkARPeIQH4WE4b",
+            "width": 408
+         }
+      ],
+      "place_id": "ChIJf4_mK_S8cEgRR71tteSzhlg",
+      "plus_code": { "compound_code": "F3GQ+MC Birmingham, UK", "global_code": "9C4WF3GQ+MC" },
+      "rating": 4,
+      "reference": "ChIJf4_mK_S8cEgRR71tteSzhlg",
+      "scope": "GOOGLE",
+      "types": ["lodging", "restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 3542,
+      "vicinity": "245 Broad Street, Birmingham",
+      "imgName": "lodging--jurys_inn_birmingham.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4752187, "lng": -1.9139953 },
+         "viewport": {
+            "northeast": { "lat": 52.4765580802915, "lng": -1.912723269708498 },
+            "southwest": { "lat": 52.4738601197085, "lng": -1.915421230291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hampton by Hilton Birmingham Broad Street",
+      "photos": [
+         {
+            "height": 933,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/115570364673982268905\">Hampton by Hilton Birmingham Broad Street</a>"
+            ],
+            "photo_reference": "Aap_uEAiMZQZjP7a90x95IB1TwaznA9JUcnihTptTHxeyuFOS9N2cCj9h-F1flpKVfco7BVUs52gccHRTsZ7skoMxjwrAtnwUocyL2XFk_vWngkA1ZHTWrTcc40kxoLwe6pQChx4aAb_qGnlYNMxknZyDKmcc_Jy1EJHSmemFnRxdskAPN-G",
+            "width": 700
+         }
+      ],
+      "place_id": "ChIJW9hbRva8cEgRxD7iRymVao8",
+      "plus_code": { "compound_code": "F3GP+3C Birmingham, UK", "global_code": "9C4WF3GP+3C" },
+      "rating": 4,
+      "reference": "ChIJW9hbRva8cEgRxD7iRymVao8",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 2155,
+      "vicinity": "200 Broad Street, Birmingham",
+      "imgName": "lodging--hampton_by_hilton_birmingham_broad_street.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4714664, "lng": -1.9003403 },
+         "viewport": {
+            "northeast": { "lat": 52.47295948029151, "lng": -1.898981069708498 },
+            "southwest": { "lat": 52.47026151970851, "lng": -1.901679030291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel ibis budget Birmingham Centre",
+      "photos": [
+         {
+            "height": 768,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/100645384297713665477\">Hotel ibis budget Birmingham Centre</a>"
+            ],
+            "photo_reference": "Aap_uEBMEpjatPRFYDFqYIO93e663S30u0SPvjtwxTFkeJ8V1fUjdC3gW1Su9b04qbIAhoILGgUB8PZ3qMHZO_6NLHOXrHmT8Mvc7CeXCZg0_UflPonST10l2raqMnXPde1Hq8zTh-imBY2aLE7vytzDQnXD2KldtnqIyWuWusc79KOxtiRb",
+            "width": 1024
+         }
+      ],
+      "place_id": "ChIJU38cn2G8cEgRF3IT1S-yDNE",
+      "plus_code": { "compound_code": "F3CX+HV Birmingham, UK", "global_code": "9C4WF3CX+HV" },
+      "rating": 3.6,
+      "reference": "ChIJU38cn2G8cEgRF3IT1S-yDNE",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 2367,
+      "vicinity": "1 Great Colmore Street, Birmingham",
+      "imgName": "lodging--hotel_ibis_budget_birmingham_centre.jpg"
+   }
+]

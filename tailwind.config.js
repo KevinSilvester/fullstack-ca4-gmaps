@@ -18,7 +18,10 @@ module.exports = {
                base: hsl('--gmap-color-base'),
                hover: hsl('--gmap-color-hover'),
                active: hsl('--gmap-color-active'),
-            }   
+            },
+            'sky-blue': {
+               100: hsl('--sky-blue-100'),
+            }
          },
          fontFamily: {
             gineso: 'gineso-condensed'

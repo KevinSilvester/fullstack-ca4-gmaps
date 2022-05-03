@@ -1,0 +1,14 @@
+.nav {
+   &__button {
+      height: 2.25rem;
+      width: 2.25rem;
+      border-radius: 50%;
+      transition: 100ms ease-in-out;
+      display: grid;
+      place-items: center;
+
+      &:hover, &:focus, &:active {
+         @apply bg-sky-200/50 ring-1 ring-sky-300/50;
+      }
+   }
+}

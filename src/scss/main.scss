@@ -6,8 +6,11 @@
    --gmap-color-base: 0 0% 40%;
    --gmap-color-hover: 0 0% 20%;
    --gmap-color-active: 0 0% 7%;
+
+   --sky-blue-100: 192 82% 50%;
 }
 
 @import 'fonts';
 @import 'map';
 @import 'menu';
+@import 'nav';

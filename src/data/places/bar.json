@@ -1,0 +1,216 @@
+[
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47677170000001, "lng": -1.903438 },
+         "viewport": {
+            "northeast": { "lat": 52.47811678029149, "lng": -1.901932969708498 },
+            "southwest": { "lat": 52.4754188197085, "lng": -1.904630930291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Malmaison Birmingham",
+      "opening_hours": { "open_now": true },
+      "photos": [
+         {
+            "height": 1024,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/106894161570421352211\">Malmaison Birmingham</a>"
+            ],
+            "photo_reference": "Aap_uEC5yzcxW32SvaZsIQO7Hmrb8Wid5Cl0criJdqvsrKtVg3lwJ_-YOcxBhjkL3n1uqTLaEfIP3uDrHW-WFCxg7K02zPEJIjvpr4FhniP7GIzSH3ce8ThxO3uzawEQd-SS3AHuKAKfGBkkL1lg0XLPHFcGFYK2zz4ePDUKhA3z4x7-s7ks",
+            "width": 1024
+         }
+      ],
+      "place_id": "ChIJb0mj0oq8cEgRn-gXjgRdALg",
+      "plus_code": { "compound_code": "F3GW+PJ Birmingham, UK", "global_code": "9C4WF3GW+PJ" },
+      "rating": 4.2,
+      "reference": "ChIJb0mj0oq8cEgRn-gXjgRdALg",
+      "scope": "GOOGLE",
+      "types": [
+         "spa",
+         "lodging",
+         "bar",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "user_ratings_total": 1398,
+      "vicinity": "1 Wharfside Street, Birmingham",
+      "imgName": "bar--malmaison_birmingham.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47565609999999, "lng": -1.8994144 },
+         "viewport": {
+            "northeast": { "lat": 52.47701843029149, "lng": -1.897994619708498 },
+            "southwest": { "lat": 52.47432046970849, "lng": -1.900692580291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Holiday Inn Birmingham City Centre, an IHG Hotel",
+      "photos": [
+         {
+            "height": 2048,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/105037735891166848872\">Holiday Inn Birmingham City Centre, an IHG Hotel</a>"
+            ],
+            "photo_reference": "Aap_uEAkkL9b99KaYGPVlBB6Nv10GcVPL57qOa8THxl8iUtZqsS6fO2vOuY7LJqUMzYxS7vbebgS2uZqYEzbn6UmkLwTdaT2t3r84wNZl2Uv2ib1W1zqQHmWIYVYcHX2OoVR4S39gUPnIB8nPcphdX4AdnGsZP3UoIy1DMRH1xmWE0TQ44te",
+            "width": 1706
+         }
+      ],
+      "place_id": "ChIJ2Y0vzYu8cEgRC-Vc1u6h0OA",
+      "plus_code": { "compound_code": "F4G2+76 Birmingham, UK", "global_code": "9C4WF4G2+76" },
+      "rating": 3.9,
+      "reference": "ChIJ2Y0vzYu8cEgRC-Vc1u6h0OA",
+      "scope": "GOOGLE",
+      "types": ["lodging", "bar", "restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1955,
+      "vicinity": "Smallbrook Queensway, Birmingham",
+      "imgName": "bar--holiday_inn_birmingham_city_centre,_an_ihg_hotel.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.486275, "lng": -1.888049 },
+         "viewport": {
+            "northeast": { "lat": 52.4874637802915, "lng": -1.8873006 },
+            "southwest": { "lat": 52.48476581970851, "lng": -1.890294199999999 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Conference Aston",
+      "opening_hours": { "open_now": true },
+      "photos": [
+         {
+            "height": 500,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/107614558456605208096\">Conference Aston</a>"
+            ],
+            "photo_reference": "Aap_uECabEcdYos2S2tWZbLO_FwXOxF4CfiADFlfgo9ndD0r1Zo_Gailz6qxZw8e5DckAktRoVsYyRW_zc8mH4fW9Ts0wuXoHXtacZhVqEDbZlV-6UhHmXfP1XYWU8JWQfMdPxmG7prjhTXjPsgFBSz228j8qhVSUUTBbCF4BYEgrLfkamKK",
+            "width": 750
+         }
+      ],
+      "place_id": "ChIJySimZ5u8cEgRy9TzmL-NoVk",
+      "plus_code": { "compound_code": "F4P6+GQ Birmingham, UK", "global_code": "9C4WF4P6+GQ" },
+      "rating": 4.2,
+      "reference": "ChIJySimZ5u8cEgRy9TzmL-NoVk",
+      "scope": "GOOGLE",
+      "types": ["lodging", "bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 254,
+      "vicinity": "Aston University, Aston Street, Birmingham",
+      "imgName": "bar--conference_aston.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47076389999999, "lng": -1.8813806 },
+         "viewport": {
+            "northeast": { "lat": 52.4721135302915, "lng": -1.880153619708498 },
+            "southwest": { "lat": 52.4694155697085, "lng": -1.882851580291501 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "The Moseley Arms",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 4032,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/113113616309125098732\">Daniel Baumhoer</a>"
+            ],
+            "photo_reference": "Aap_uECjggj5vaLVLIN_SHnjBzBCJUExRZkMc2ZPBIjXeL_MvUhM3akiRKQhEcXRM4KFMvFHxdIyRUTnQmkzERLFqSMDzeH0rh_In34MKWTTTY5bA-r2kChJkWq4L0gqkJGBw5MiK6HaXMILl8jEavr7aehGWyZRN8p5qUlbLW4Jc-O-uY0S",
+            "width": 3024
+         }
+      ],
+      "place_id": "ChIJId4wE3-8cEgRhNXdFbcE-j4",
+      "plus_code": { "compound_code": "F4C9+8C Birmingham, UK", "global_code": "9C4WF4C9+8C" },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJId4wE3-8cEgRhNXdFbcE-j4",
+      "scope": "GOOGLE",
+      "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 588,
+      "vicinity": "105 Ravenhurst Street, Birmingham",
+      "imgName": "bar--the_moseley_arms.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4806251, "lng": -1.9005329 },
+         "viewport": {
+            "northeast": { "lat": 52.48195258029151, "lng": -1.899255219708498 },
+            "southwest": { "lat": 52.47925461970851, "lng": -1.901953180291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "The Wellington",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 4016,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/105811110264648683216\">The Wellington</a>"
+            ],
+            "photo_reference": "Aap_uEA3P6aTQ749SAXE7Rto8GCplv2s2PQL499eDpH--B12dzp0_YAH2Cv_5i7Xf-uLBIU3S4mM4VmeIiFB1DjFWJd_ryf59YIISS3OzSiZumb9FpEuVouRCnxvZSy0-9vbr2J8igHDqexY6Vm3xRtZICiL4sIsxUp0lf92VVJosEkYW8CR",
+            "width": 6016
+         }
+      ],
+      "place_id": "ChIJ13eIPYy8cEgRKXDlQBsiK_0",
+      "plus_code": { "compound_code": "F3JX+7Q Birmingham, UK", "global_code": "9C4WF3JX+7Q" },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ13eIPYy8cEgRKXDlQBsiK_0",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 2930,
+      "vicinity": "37 Bennetts Hill, Birmingham",
+      "imgName": "bar--the_wellington.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.48509639999999, "lng": -1.907861799999999 },
+         "viewport": {
+            "northeast": { "lat": 52.48643253029149, "lng": -1.906562469708498 },
+            "southwest": { "lat": 52.4837345697085, "lng": -1.909260430291501 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Lasan Indian Restaurant & Cocktail Bar",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 4318,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/110244356841552179593\">Lasan Indian Restaurant &amp; Cocktail Bar</a>"
+            ],
+            "photo_reference": "Aap_uEA9y0A8neTmt5-Yz6Iuec7rE9sIyAvOUtT9PLIYw8kUgwGcxcsbpMESKsyzA-G-kDpw54o2AbRv67yvRfO3V9P4aagFPn2J0uRhrhPs9K1J1FTNh6Woj69AoCKIEDcucUfctydxZJXfC9i3DRpAXUSmB-4dGh8gRj9tHrtHn6qjF-Uv",
+            "width": 3721
+         }
+      ],
+      "place_id": "ChIJFx2eXe28cEgRbjxc-Y50dC0",
+      "plus_code": { "compound_code": "F3PR+2V Birmingham, UK", "global_code": "9C4WF3PR+2V" },
+      "price_level": 4,
+      "rating": 4.5,
+      "reference": "ChIJFx2eXe28cEgRbjxc-Y50dC0",
+      "scope": "GOOGLE",
+      "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 702,
+      "vicinity": "3 - 4 Dakota Buildings, James Street, Saint Paul's Square, Birmingham",
+      "imgName": "bar--lasan_indian_restaurant_&_cocktail_bar.jpg"
+   }
+]

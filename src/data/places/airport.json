@@ -1,0 +1,159 @@
+[
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.5022078, "lng": -1.9018591 },
+         "viewport": {
+            "northeast": { "lat": 52.5037545802915, "lng": -1.900507819708499 },
+            "southwest": { "lat": 52.50105661970851, "lng": -1.903205780291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Blueline Cars",
+      "opening_hours": { "open_now": true },
+      "photos": [
+         {
+            "height": 545,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/101537701135698054323\">Blueline Cars</a>"
+            ],
+            "photo_reference": "Aap_uEDgsH5zbLYTjyuZiAKtZZeqO_kfOmm79f_cWRb0Kw4TnqhfyEptmvZLK1H-TdNi9SzgrnP9TypNYfA3Avwz9hb8HoqWRAp33Zlao9eQDukHh1iI2unbw8GODkVkf4Dr6PYSezReuslSIYM1xa_oa9A_O58vekEEixTqMOFqGxgrIeb7",
+            "width": 1080
+         }
+      ],
+      "place_id": "ChIJJ_pyrn69cEgRlcLkrwuUWLc",
+      "plus_code": { "compound_code": "G32X+V7 Birmingham, UK", "global_code": "9C4WG32X+V7" },
+      "rating": 2.5,
+      "reference": "ChIJJ_pyrn69cEgRlcLkrwuUWLc",
+      "scope": "GOOGLE",
+      "types": ["airport", "taxi_stand", "point_of_interest", "establishment"],
+      "user_ratings_total": 103,
+      "vicinity": "48 Lozells Road, Birmingham",
+      "imgName": "airport--blueline_cars.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4716645, "lng": -1.8816576 },
+         "viewport": {
+            "northeast": { "lat": 52.47305613029149, "lng": -1.880266819708498 },
+            "southwest": { "lat": 52.47035816970849, "lng": -1.882964780291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Network Executive Chauffeurs Ltd",
+      "opening_hours": { "open_now": true },
+      "photos": [
+         {
+            "height": 576,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/103675514280150250506\">Network Executive Chauffeurs Ltd</a>"
+            ],
+            "photo_reference": "Aap_uEAfTFd-VjJwTuTLdEO7aKyMDoqnnOBrkRGgpU6ad1j0MU2cSEyLbJHAziXZdkek0oKIQornMktJJ8lcU-V9RNgsYW7FaxAPgXxUnN9Clv7rdeoLekE2PKXbcdR5jv4Xr5k89h2AOAEDMvkOK7WGpazRcNlAh3XgjatxF4LtX2SasADi",
+            "width": 1024
+         }
+      ],
+      "place_id": "ChIJn8aNEH27cEgRvPXSm7wt8Ks",
+      "plus_code": { "compound_code": "F4C9+M8 Birmingham, UK", "global_code": "9C4WF4C9+M8" },
+      "rating": 5,
+      "reference": "ChIJn8aNEH27cEgRvPXSm7wt8Ks",
+      "scope": "GOOGLE",
+      "types": ["airport", "point_of_interest", "establishment"],
+      "user_ratings_total": 8,
+      "vicinity": "Bradford Court, 123/132 Bradford Street, Birmingham",
+      "imgName": "airport--network_executive_chauffeurs_ltd.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.48466209999999, "lng": -1.8922358 },
+         "viewport": {
+            "northeast": { "lat": 52.4860800302915, "lng": -1.890929469708498 },
+            "southwest": { "lat": 52.4833820697085, "lng": -1.893627430291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/airport_pinlet",
+      "name": "Birmingham Children’s Hospital Helipad",
+      "photos": [
+         {
+            "height": 2084,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/101300382469643287649\">Shafeeq Ali</a>"
+            ],
+            "photo_reference": "Aap_uED22ckpFSL6pnhDe47BSZCQ3OVAgjsbqgxVjMM1GYpSIDKYTzt34bWGPVz7ge2wZM-8GYC3l9c7dgpb9EiIaEpcG67fRdKm-QwaxBTctbcbGvUbFNy2cUFpX-0oue4LcbsSkq4zJosVfG_Tqb1-UwFs3O0LTH16FMM9yxw-V8aP7vUK",
+            "width": 4624
+         }
+      ],
+      "place_id": "ChIJ40l6pd69cEgRUD-_s2X2XuI",
+      "plus_code": { "compound_code": "F4M5+V4 Birmingham, UK", "global_code": "9C4WF4M5+V4" },
+      "rating": 5,
+      "reference": "ChIJ40l6pd69cEgRUD-_s2X2XuI",
+      "scope": "GOOGLE",
+      "types": ["airport", "point_of_interest", "establishment"],
+      "user_ratings_total": 3,
+      "vicinity": "205 Corporation Street, Birmingham",
+      "imgName": "airport--birmingham_children’s_hospital_helipad.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.50747570000001, "lng": -1.8525585 },
+         "viewport": {
+            "northeast": { "lat": 52.50892758029151, "lng": -1.851253319708498 },
+            "southwest": { "lat": 52.50622961970851, "lng": -1.853951280291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Minibus Hire With Driver Birmingham UK",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 1836,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/116559475689432541212\">j Gooden</a>"
+            ],
+            "photo_reference": "Aap_uEBNEKVa-ca4m1l1438ZmN36PkeMVr7Q5wSz2k3KWVWyNbQ4b1vkM0FPAxn5q8C5h220F8E8n7ufpe2svhA2d-1Rs18gutY5XjydubLrAT3f9gbcHB0xagWDkefWBguT953y8k-vOGKqgYskso7Z3SkqxAK00GdC-4-fyOv9Xu3zngUD",
+            "width": 3264
+         }
+      ],
+      "place_id": "ChIJAQBAaDe7cEgRhr0PCdKLi6s",
+      "plus_code": { "compound_code": "G44W+XX Birmingham, UK", "global_code": "9C4WG44W+XX" },
+      "rating": 5,
+      "reference": "ChIJAQBAaDe7cEgRhr0PCdKLi6s",
+      "scope": "GOOGLE",
+      "types": ["airport", "point_of_interest", "establishment"],
+      "user_ratings_total": 3,
+      "vicinity": "159 Tyburn Road, Birmingham",
+      "imgName": "airport--minibus_hire_with_driver_birmingham_uk.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4789859, "lng": -1.8278738 },
+         "viewport": {
+            "northeast": { "lat": 52.4804075802915, "lng": -1.826494569708498 },
+            "southwest": { "lat": 52.47770961970851, "lng": -1.829192530291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/airport_pinlet",
+      "name": "Heartlands Hospital Helipad",
+      "place_id": "ChIJI6wyHj-7cEgRN2DDL384NPk",
+      "plus_code": { "compound_code": "F5HC+HV Birmingham, UK", "global_code": "9C4WF5HC+HV" },
+      "rating": 4,
+      "reference": "ChIJI6wyHj-7cEgRN2DDL384NPk",
+      "scope": "GOOGLE",
+      "types": ["airport", "point_of_interest", "establishment"],
+      "user_ratings_total": 393,
+      "vicinity": "Heartlands Hospital, Bordesley Green East, East, Birmingham"
+   }
+]

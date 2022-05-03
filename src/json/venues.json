@@ -1,0 +1,130 @@
+[
+   {
+      "name": "Alexander Stadium",
+      "coordinates": {
+         "lat": 52.53102033362649,
+         "lng": -1.9048993440830995
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPiD4UH8NrI-W2nvk7mT68i06zfap32fyHzjsME=w966"
+   },
+   {
+      "name": "ARENA BIRMINGHAM",
+      "coordinates": {
+         "lat": 52.48057304775292,
+         "lng": -1.9150652779174093
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOCDZT4LiRB_CXuHmTSWyt-ReXQv6jwMJYA5ixZ=w966"
+   },
+   {
+      "name": "CANNOCK CHASE FOREST",
+      "coordinates": {
+         "lat": 52.75563619595669,
+         "lng": -1.976744933936169
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipMPigHiv4Sw8UFcZCEm2pnKLJE3I9J8BLfdAnS6=w966"
+   },
+   {
+      "name": "COVENTRY ARENA AND STADIUM",
+      "coordinates": {
+         "lat": 52.448452797782,
+         "lng": -1.4966619723632997
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipNXCQIbYYxMCDmJlOfWw6v324pBMZY_T02R3wMr=w966"
+   },
+   {
+      "name": "Edgbaston Stadium",
+      "coordinates": {
+         "lat": 52.45544913835345,
+         "lng": -1.9040926019728828
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPp0Rn6XtXV-vd30bP9eeQteu-5x69Cxzi3LmNp=w966"
+   },
+   {
+      "name": "LEE VALLEY VELOPARK",
+      "coordinates": {
+         "lat": 51.55055005145479,
+         "lng": -0.015384944341466927
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOfVEBikOackBzp-_wjsIv5pFAvTQ0FPsD8mSk=w966"
+   },
+   {
+      "name": "THE NEC",
+      "coordinates": {
+         "lat": 52.454353827310314,
+         "lng": -1.7170365596453967
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOmhcysjlOCeeoNYKqr2hdz3SJDz-s6BJn8hiHY=w966"
+   },
+   {
+      "name": "Sandwell Aquatics Centre",
+      "coordinates": {
+         "lat": 52.48943753346022,
+         "lng": -1.989642532661215
+      },
+      "image": "https://resources.cwg-qbr.pulselive.com/photo-resources/2022/02/08/b2cc1b88-fc6d-4134-99df-934cc35a0038/8963-190724-Logo-Option-Games-Mode-2.jpg?width=966"
+   },
+   {
+      "name": "SMITHFIELD",
+      "coordinates": {
+         "lat": 52.47501104030888,
+         "lng": -1.8919899353313219
+      },
+      "image": "https://resources.cwg-qbr.pulselive.com/photo-resources/2022/02/08/be818fe1-6636-4d04-9e7e-aa775e1981a9/beach-volleyball-at-smithfield.jpg?width=966"
+   },
+   {
+      "name": "SUTTON PARK",
+      "coordinates": {
+         "lat": 52.5565044952773,
+         "lng": -1.8442693834425845
+      },
+      "image": "https://resources.cwg-qbr.pulselive.com/photo-resources/2022/02/08/9ef2d983-c702-4857-ae7c-3b3e2b00e0a1/sutton-water.jpg?width=966"
+   },
+   {
+      "name": "LEE VALLEY VELOPARK",
+      "coordinates": {
+         "lat": 51.55055005145479,
+         "lng": -0.015384944341466927
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOfVEBikOackBzp-_wjsIv5pFAvTQ0FPsD8mSk=w966"
+   },
+   {
+      "name": "University of Birmingham Hockey and Squash Centre",
+      "coordinates": {
+         "lat": 52.45123642693076,
+         "lng": -1.9265036304567373
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipN6rMDqEWh9XBsmkFe64N1X4TtTwQAaxVaj5YHY=w966"
+   },
+   {
+      "name": "VICTORIA PARK",
+      "coordinates": {
+         "lat": 52.49427608555555,
+         "lng": -1.9659858776147687
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipP8C45odfJ71zIKLtULkqNpbDQgAyKVu-U9DwuO=w966"
+   },
+   {
+      "name": "VICTORIA SQUARE",
+      "coordinates": {
+         "lat": 54.59818615418979,
+         "lng": -5.92528623889817
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipP4WmYMjeoDx1hmtXPqLSGuWQv1BRVtGkJq08AJ=w966"
+   },
+   {
+      "name": "WARWICK",
+      "coordinates": {
+         "lat": 52.37934416884201,
+         "lng": -1.561470401976349
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipN8vE-vodFAWBv7T3BWKH9gxrPZAXMwl3Dlp60W=w966"
+   },
+   {
+      "name": "West Park",
+      "coordinates": {
+         "lat": 52.59090213671891,
+         "lng": -2.137791583027695
+      },
+      "image": "https://lh5.googleusercontent.com/p/AF1QipN8vE-vodFAWBv7T3BWKH9gxrPZAXMwl3Dlp60W=w966"
+   }
+]

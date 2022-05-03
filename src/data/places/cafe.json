@@ -1,0 +1,209 @@
+[
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47863989999999, "lng": -1.896431499999999 },
+         "viewport": {
+            "northeast": { "lat": 52.47975293029149, "lng": -1.894728569708497 },
+            "southwest": { "lat": 52.4770549697085, "lng": -1.897426530291501 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+      "name": "ODEON Birmingham New Street",
+      "photos": [
+         {
+            "height": 3024,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/103828968308298326361\">Banana King</a>"
+            ],
+            "photo_reference": "Aap_uEBWpBP_o00qRebPH_3oFg25FcI3Q4Zkv-iTo7YROH3VBC5mrZDN8e14UNbP40O5iIfdGg7WVKhXMLLoZegeDmIO--V6xZ1dqPpl3iMEMYxdjmWPfNxKkFfDw0CDKux1RpzL2KzTvDuCTVLQlYv55PBLiRRL595NA0bq0nMbobqmQArc",
+            "width": 4032
+         }
+      ],
+      "place_id": "ChIJFSsbyo-8cEgRaiYVlHAxl_A",
+      "plus_code": { "compound_code": "F4H3+FC Birmingham, UK", "global_code": "9C4WF4H3+FC" },
+      "rating": 3.7,
+      "reference": "ChIJFSsbyo-8cEgRaiYVlHAxl_A",
+      "scope": "GOOGLE",
+      "types": ["movie_theater", "cafe", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 2125,
+      "vicinity": "139 New Street, Birmingham",
+      "imgName": "cafe--odeon_birmingham_new_street.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4780668, "lng": -1.9135067 },
+         "viewport": {
+            "northeast": { "lat": 52.4793305802915, "lng": -1.912352619708498 },
+            "southwest": { "lat": 52.4766326197085, "lng": -1.915050580291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Costa Coffee (Brindley place, Birmingham)",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 2610,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/117215955940750175186\">Cristian Pache</a>"
+            ],
+            "photo_reference": "Aap_uEC4J7FpoalaMgtc6z4g_9W1lDInsujx8bLlvXBXFbDwCbD9P7Qx7j2WPTRAvO2eZQ4JT1dfapTaYPeQCYKIpefWmL1FSjuysZqDFXdPoQtGJ2hmLmR6NqW6KAju73ZLbPgXF-4yvxLm0lERFLq_Y5DrpOuSv-2Xvrlvew6_EwzJzbxa",
+            "width": 4640
+         }
+      ],
+      "place_id": "ChIJKduHo_a8cEgRsAogfylW8Fg",
+      "plus_code": { "compound_code": "F3HP+6H Birmingham, UK", "global_code": "9C4WF3HP+6H" },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJKduHo_a8cEgRsAogfylW8Fg",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 424,
+      "vicinity": "Eleven Brindley Place, Broad Street, Birmingham",
+      "imgName": "cafe--costa_coffee_(brindley_place,_birmingham).jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47844299999999, "lng": -1.8896689 },
+         "viewport": {
+            "northeast": { "lat": 52.4797620302915, "lng": -1.888210569708498 },
+            "southwest": { "lat": 52.4770640697085, "lng": -1.890908530291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "The Warehouse Cafe and Bar",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 3456,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/106082057071351277246\">José Moreira</a>"
+            ],
+            "photo_reference": "Aap_uEAWeryQsCuQeEQ7x_d_OuFyBQaGuJPUGVEjYGxFb_Kkxg92fGI74NmvcLzHfvKTEz8j5xnc-TSV-W63XfmAmcTMpiTz6Mvu9kNJnNvbmfYhzT97Wc6VTJRIiCGvLBNTSorRS-KOwEC0DQQoiauiFnOrYwQ7uoXVqoGW2iJi75t4Pht6",
+            "width": 4608
+         }
+      ],
+      "place_id": "ChIJh2Adi4a8cEgRGtSpnl8RWqw",
+      "plus_code": { "compound_code": "F4H6+94 Birmingham, UK", "global_code": "9C4WF4H6+94" },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJh2Adi4a8cEgRGtSpnl8RWqw",
+      "scope": "GOOGLE",
+      "types": ["cafe", "bar", "restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 493,
+      "vicinity": "54-57 Allison Street, Birmingham",
+      "imgName": "cafe--the_warehouse_cafe_and_bar.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.480386, "lng": -1.90217 },
+         "viewport": {
+            "northeast": { "lat": 52.4816979302915, "lng": -1.900774219708498 },
+            "southwest": { "lat": 52.4789999697085, "lng": -1.903472180291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Starbucks Coffee",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 3024,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/116976229211225094447\">Jake B</a>"
+            ],
+            "photo_reference": "Aap_uEAkc23JQgtQWi_IDm3YROG3bjmfbYK7J__E_giaJpPSvv-C5mJvhHksWPZUFKb2auRfAiZqeN9WDWSVES98poDxgXcs65josesWeUTjY-vMEDaiii9j1Z97-VG3eZg5IkueqimSr0o1Wp--7hDjfFo5xYijxG6TMs0OeFUvEF4cgImW",
+            "width": 4032
+         }
+      ],
+      "place_id": "ChIJt6NPZ4y8cEgRdZvLHG_wrRo",
+      "plus_code": { "compound_code": "F3JX+54 Birmingham, UK", "global_code": "9C4WF3JX+54" },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJt6NPZ4y8cEgRdZvLHG_wrRo",
+      "scope": "GOOGLE",
+      "types": ["cafe", "restaurant", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 618,
+      "vicinity": "125 Colmore Row, Lloyds",
+      "imgName": "cafe--starbucks_coffee.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4875892, "lng": -1.911994000000001 },
+         "viewport": {
+            "northeast": { "lat": 52.4889335802915, "lng": -1.910930869708498 },
+            "southwest": { "lat": 52.4862356197085, "lng": -1.913628830291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Jewellery Quarter Birmingham",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 480,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/113073995015219512558\">The Jewellery Quarter Birmingham</a>"
+            ],
+            "photo_reference": "Aap_uED6i2HLN78OHIdaeGm-JOW9S6nSvvTBhX3udWyK4TQHKLYo_cOk5lEvZE_Qr542dM4tyR-e_0jvfGq1sWokjm13VVyzGA65SsxfF9eK5MnxVVsJI6L_ZUp55mgfJDnJtQEfzszJcALRmvAaV5J2JLr-UjTJR9hg5RA2KVHif0_DnkuV",
+            "width": 640
+         }
+      ],
+      "place_id": "ChIJ-7P4Luy8cEgREshdPMxKBhQ",
+      "plus_code": { "compound_code": "F3QQ+26 Birmingham, UK", "global_code": "9C4WF3QQ+26" },
+      "rating": 4.7,
+      "reference": "ChIJ-7P4Luy8cEgREshdPMxKBhQ",
+      "scope": "GOOGLE",
+      "types": ["cafe", "bar", "restaurant", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 13,
+      "vicinity": "309f, 120 Vyse Street, Birmingham",
+      "imgName": "cafe--the_jewellery_quarter_birmingham.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4791672, "lng": -1.8993171 },
+         "viewport": {
+            "northeast": { "lat": 52.4804882802915, "lng": -1.898045619708498 },
+            "southwest": { "lat": 52.4777903197085, "lng": -1.900743580291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Starbucks Coffee",
+      "opening_hours": { "open_now": false },
+      "photos": [
+         {
+            "height": 2160,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/106246903644125644950\">Jamie P</a>"
+            ],
+            "photo_reference": "Aap_uECz8zYmQSlTkp1auiWXZAxxZgcVGr7Z5ODd7_IuEGPH4CXMvFGkAAILchFtlSiSrI3B5Hnph8I3WkoljmRMq2p_xpV3jRo2oq61FbsPNJz5EmQqWf4645fM-bCnhHMMDY1qEzga1IbhN1TIBxL7ViLbBAeRms9BP1wcJkziW1hKtBRq",
+            "width": 3840
+         }
+      ],
+      "place_id": "ChIJt6NPZ4y8cEgR4bVdGnWfQyw",
+      "plus_code": { "compound_code": "F4H2+M7 Birmingham, UK", "global_code": "9C4WF4H2+M7" },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJt6NPZ4y8cEgR4bVdGnWfQyw",
+      "scope": "GOOGLE",
+      "types": ["cafe", "restaurant", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 870,
+      "vicinity": "114 115 New Street, Birmingham",
+      "imgName": "cafe--starbucks_coffee.jpg"
+   }
+]

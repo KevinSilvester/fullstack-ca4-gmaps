@@ -1,0 +1,161 @@
+[
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.48083, "lng": -1.8973938 },
+         "viewport": {
+            "northeast": { "lat": 52.4822616802915, "lng": -1.896160569708498 },
+            "southwest": { "lat": 52.4795637197085, "lng": -1.898858530291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "AIGER UK LIMITED",
+      "place_id": "ChIJ-eJ07468cEgRARxg1x0Ifsg",
+      "plus_code": { "compound_code": "F4J3+82 Birmingham, UK", "global_code": "9C4WF4J3+82" },
+      "reference": "ChIJ-eJ07468cEgRARxg1x0Ifsg",
+      "scope": "GOOGLE",
+      "types": ["bus_station", "transit_station", "point_of_interest", "establishment"],
+      "vicinity": "43 Temple Row, Birmingham"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47537579999999, "lng": -1.8884512 },
+         "viewport": {
+            "northeast": { "lat": 52.47671083029149, "lng": -1.8870078 },
+            "southwest": { "lat": 52.4740128697085, "lng": -1.8899442 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Birmingham Coach Station",
+      "photos": [
+         {
+            "height": 3024,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/105687331829561967530\">Olukunle Tolu</a>"
+            ],
+            "photo_reference": "Aap_uEA73ubN6wmV9Gq0Hl2oA3kYYcyk3W-pRgP3CTkEZGCfA081SyT3ZZZs5L262oxf2ad3Cbr6143lA6Tvz5aSxiDOks47DF7yZuXv-TlVnywly-iwZty_0Ng2UDRSL-HGjY5OVE3f4Saj0yVJj9D3iIQFGHSghEzjiKSGA2hPNJptCruH",
+            "width": 4032
+         }
+      ],
+      "place_id": "ChIJn85SDYe8cEgRX751mdKBjy0",
+      "plus_code": { "compound_code": "F4G6+5J Birmingham, UK", "global_code": "9C4WF4G6+5J" },
+      "rating": 3.9,
+      "reference": "ChIJn85SDYe8cEgRX751mdKBjy0",
+      "scope": "GOOGLE",
+      "types": ["bus_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 240,
+      "vicinity": "Mill Lane, Birmingham",
+      "imgName": "bus_station--birmingham_coach_station.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.47908909999999, "lng": -1.9189791 },
+         "viewport": {
+            "northeast": { "lat": 52.48051498029149, "lng": -1.917693169708498 },
+            "southwest": { "lat": 52.47781701970849, "lng": -1.920391130291501 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Opp Marketing",
+      "photos": [
+         {
+            "height": 2268,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/106269918490695601688\">Tomasz J</a>"
+            ],
+            "photo_reference": "Aap_uEC9SZK36SE7mEbKjmBbK_-htpz9YRXE_DOSJSgDl4q30z62EhNETDvlpZf33LwGuCSLxfjjBf9gLqhDwx1Authc6OHGhAKqYaUOaBA81a2hN2BEfGpJ-laJy8q-g-QSikW70eA7kbnogh5-_UFmWSY5Igq47PEjlK8_6n5-NoXXQY6U",
+            "width": 4032
+         }
+      ],
+      "place_id": "ChIJr8SsxmujcEgRJYLMafy7AdQ",
+      "plus_code": { "compound_code": "F3HJ+JC Birmingham, UK", "global_code": "9C4WF3HJ+JC" },
+      "reference": "ChIJr8SsxmujcEgRJYLMafy7AdQ",
+      "scope": "GOOGLE",
+      "types": ["bus_station", "transit_station", "point_of_interest", "establishment"],
+      "vicinity": "Waterside Court, 101 Saint Vincent Street, Birmingham",
+      "imgName": "bus_station--opp_marketing.jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4805022, "lng": -1.9012406 },
+         "viewport": {
+            "northeast": { "lat": 52.4819143802915, "lng": -1.899971469708498 },
+            "southwest": { "lat": 52.4792164197085, "lng": -1.902669430291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Alhambra at One Ten",
+      "place_id": "ChIJs3HWQYy8cEgRqoCDFlkDrpY",
+      "plus_code": { "compound_code": "F3JX+6G Birmingham, UK", "global_code": "9C4WF3JX+6G" },
+      "reference": "ChIJs3HWQYy8cEgRqoCDFlkDrpY",
+      "scope": "GOOGLE",
+      "types": ["bus_station", "transit_station", "point_of_interest", "establishment"],
+      "vicinity": "110 Colmore Row, Birmingham"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.4828845, "lng": -1.8937936 },
+         "viewport": {
+            "northeast": { "lat": 52.4842093802915, "lng": -1.892400319708498 },
+            "southwest": { "lat": 52.4815114197085, "lng": -1.895098280291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Upper Corporation Street (CS1)",
+      "photos": [
+         {
+            "height": 1908,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/115259449350513355002\">Richard Owusu</a>"
+            ],
+            "photo_reference": "Aap_uEDUUrbfF4iSTPGqLhEaBUkpFP3YZoagC8CjRVGoIrV09r9AvbCnr4FqV0CsMMV66KtJ1_8MP6__2kXr3FncUMmR9gEHCYc4Fa08gPmS0uaChrfnkMp-xk4QaQJPICc4ruq-7ZY9WiyDBPzyKsPzPFRnIaksLdm2LsVwkZo8N6CSYxuz",
+            "width": 4032
+         }
+      ],
+      "place_id": "ChIJnfs4hY-8cEgR12PayX_x39c",
+      "plus_code": { "compound_code": "F4M4+5F Birmingham, UK", "global_code": "9C4WF4M4+5F" },
+      "rating": 4.3,
+      "reference": "ChIJnfs4hY-8cEgR12PayX_x39c",
+      "scope": "GOOGLE",
+      "types": ["bus_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 4,
+      "vicinity": "United Kingdom",
+      "imgName": "bus_station--upper_corporation_street_(cs1).jpg"
+   },
+   {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+         "location": { "lat": 52.48185909999999, "lng": -1.893005 },
+         "viewport": {
+            "northeast": { "lat": 52.4831791802915, "lng": -1.891670769708498 },
+            "southwest": { "lat": 52.48048121970851, "lng": -1.894368730291502 }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Priory Queensway (Stop BS8)",
+      "place_id": "ChIJv1IZgYW8cEgR8GCAjz3lex4",
+      "plus_code": { "compound_code": "F4J4+PQ Birmingham, UK", "global_code": "9C4WF4J4+PQ" },
+      "rating": 5,
+      "reference": "ChIJv1IZgYW8cEgR8GCAjz3lex4",
+      "scope": "GOOGLE",
+      "types": ["bus_station", "transit_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "United Kingdom"
+   }
+]

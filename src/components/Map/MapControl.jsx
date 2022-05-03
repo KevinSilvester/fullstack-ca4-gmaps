@@ -13,14 +13,14 @@ const MapControl = ({ children, position, onClick, className = 'map__control' })
    const ref = useRef()
 
    useEffect(() => {
-      if (map && ref) map.controls[google.maps.ControlPosition[position]].push(ref.current)
+      if (map && ref && position) map.controls[google.maps.ControlPosition[position]].push(ref.current)
    }, [map, ref])
 
    return (
-      <div ref={ref} className='map__control-wrapper'>
-         <button className={className} onClick={onClick}>
-            {children}
-         </button>
+      <div ref={ref} className=''>
+            <button className={className} onClick={onClick}>
+               <div className='map__control-btn-inner'>{children}</div>
+            </button>
       </div>
    )
 }
