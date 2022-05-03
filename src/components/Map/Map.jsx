@@ -42,6 +42,7 @@ const Map = () => {
    const [id, setId] = useState('')
    const [direction, setDirection] = useState()
    const [searchValue, setSearchValue] = useState('')
+   const [coords, setCoords] = useState()
 
    const [coordinates, setCoordinates] = useStore(
       state => [state.coordinates, state.setCoordinates],
@@ -142,28 +143,31 @@ const Map = () => {
       setDisplayPoi(!displayPoi)
    }
 
-   const handleMarkerClick = (coords, id) => {
-      const { lat, lng } = coords
-      setCoordinates(coords)
+   const handleMarkerClick = (latLng, id) => {
+      const { lat, lng } = latLng
+      setCoords(latLng)
       setId(id)
    }
 
    const fetchDirections = coords => {
-      const service = new google.maps.DirectionsService()
-      service.route(
-         {
-            origin: coords,
-            destination: coordinates,
-            travelMode: google.maps.TravelMode.DRIVING
-         },
-         (result, status) => {
-            if (status === google.maps.DirectionsStatus.OK && result) {
-               setDirection(result)
-               setDisplaySearch(false)
-               console.log(result)
+      console.log(coordinates)
+      if (coordinates) {
+         const service = new google.maps.DirectionsService()
+         service.route(
+            {
+               origin: coords,
+               destination: coordinates,
+               travelMode: google.maps.TravelMode.DRIVING
+            },
+            (result, status) => {
+               if (status === google.maps.DirectionsStatus.OK && result) {
+                  setDirection(result)
+                  setDisplaySearch(false)
+                  console.log(result)
+               }
             }
-         }
-      )
+         )
+      }
    }
 
    return (
@@ -210,7 +214,7 @@ const Map = () => {
                               type={type}
                            />
                            {id === place.place_id && (
-                              <InfoWindow position={coordinates} key={place.place_id + 1}>
+                              <InfoWindow position={coords} key={place.place_id + 1}>
                                  <div className='p-2'>
                                     <div className='h-28 w-44 overflow-hidden rounded-md grid place-items-center mx-auto'>
                                        <img
